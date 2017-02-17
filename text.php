@@ -1,0 +1,3 @@
+<?php
+  $text = "text git";
+?>
